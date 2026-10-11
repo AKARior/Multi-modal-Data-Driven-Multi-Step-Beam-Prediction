@@ -1,0 +1,5 @@
+torch>=2.6
+torchvision
+mamba-ssm>=2.2.2
+numpy
+Pillow
